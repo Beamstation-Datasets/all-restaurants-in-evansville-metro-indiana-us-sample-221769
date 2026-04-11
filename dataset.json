@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the Evansville (Metro), Indiana metro region, encompassing Evansville. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Evansville (Metro), Indiana, US",
+  "export_job_id": "59665a20-b85a-44e4-b626-6a7c18835547",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 221769,
+  "location_name": "Evansville, IN",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-evansville-metro-indiana-us-sample-221769",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/221769/beamstation_221769_restaurants-us-evansvillein_SAMPLE_DIST.csv",
+  "sample_pct": 9.86,
+  "sample_records": 65,
+  "sample_sha256": "0f7f07f60fa201421eaf6aa0319c899bf488e880b10dbe2700bcf98e39f81839",
+  "sample_size_bytes": 240693,
+  "total_records": 659,
+  "updated_at": "2026-04-07T12:39:57.982983+00:00"
+}
