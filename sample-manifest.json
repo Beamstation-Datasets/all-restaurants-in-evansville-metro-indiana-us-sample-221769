@@ -1,0 +1,12 @@
+{
+  "export_job_id": "59665a20-b85a-44e4-b626-6a7c18835547",
+  "id_short": 221769,
+  "published_at": "2026-04-11T19:30:18Z",
+  "repo_name": "all-restaurants-in-evansville-metro-indiana-us-sample-221769",
+  "sample_asset_name": "beamstation_221769_restaurants-us-evansvillein_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/221769/beamstation_221769_restaurants-us-evansvillein_SAMPLE_DIST.csv",
+  "sample_records": 65,
+  "sample_sha256": "0f7f07f60fa201421eaf6aa0319c899bf488e880b10dbe2700bcf98e39f81839",
+  "sample_size_bytes": 240693,
+  "total_records": 659
+}
