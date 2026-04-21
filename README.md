@@ -1,6 +1,6 @@
 # All Restaurants in Evansville (Metro), Indiana, US
 
-> Free BeamStation sample export with 65 rows and masked direct-contact fields.
+> Free BeamStation sample export with 58 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `221769` |
 | Location | Evansville, IN |
 | Category | Restaurants |
-| Full dataset size | 654 records |
-| Free sample size | 65 records (9.94%) |
-| Last export | 2026-04-14T12:34:23.896995+00:00 |
+| Full dataset size | 589 records |
+| Free sample size | 58 records (9.85%) |
+| Last export | 2026-04-21T13:25:03.491918+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-evansville-metro-indiana-us-sample-221769/releases/download/sample-latest/beamstation_221769_restaurants-us-evansvillein_SAMPLE_DIST.csv) |
 
 ## What is in this sample
